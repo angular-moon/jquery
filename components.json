@@ -1,0 +1,6 @@
+{
+    "version": "1.8.3",
+    "description": "鼎鼎大名的jQuery",
+    "name": "jquery",
+    "main": "jquery.js"
+}

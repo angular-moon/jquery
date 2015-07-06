@@ -1,5 +1,6 @@
 {
     "version": "1.8.3",
+    "repos": 'https://github.com/angular-moon/jquery.git',
     "description": "鼎鼎大名的jQuery",
     "name": "jquery",
     "main": "jquery.js"

@@ -5,7 +5,7 @@ module.exports = function(options) {
   // 可以添加一些逻辑，最终返回一个 mapping 配置列表。
   return [
     {
-      reg: /^\/README\.md$/i,
+      reg: /^\/README\.md$/,
       release: false
     }
   ];

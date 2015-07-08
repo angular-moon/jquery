@@ -5,8 +5,8 @@
     "main": "jquery.js",
      "mapping": [
         {
-            reg: /^\/README\.md$/,
-            release: false
+            "reg": "/^\\/README\\.md$/",
+            "release": false
         }
     ]
 }

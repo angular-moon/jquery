@@ -7,10 +7,6 @@
         {
             reg: /^\/README\.md$/,
             release: false
-        },
-         {
-            reg: /^\/\.*$/,
-            release: false
         }
     ]
 }

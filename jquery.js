@@ -9528,7 +9528,7 @@ jQuery.param = function( a, traditional ) {
 				});
 			}
 						
-		} else if(obj){
+		} else if(obj !== null || obj !== undefined){
 			// Serialize scalar item.
 			add( prefix, obj );
 		}
